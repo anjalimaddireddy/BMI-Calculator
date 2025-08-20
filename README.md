@@ -82,4 +82,3 @@ README.md            # Documentation
 
 
 
-Let me know if you'd like to include unit tests, support for height in centimeters, or convert this into a GUI or web app.
